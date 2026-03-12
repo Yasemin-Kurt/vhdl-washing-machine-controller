@@ -109,7 +109,7 @@ Possible improvements for future development include:
 
 # How to Run
 
-1. Download the project ZIP file from the repository.
+1. Download the project ZIP file (vhdl‑washing‑machine‑controller.zip) from the repository.
 2. Extract the ZIP to a desired location on your computer.
 3. Open Xilinx Vivado and select **Open Project**.
 4. Navigate to the extracted project folder and open the `.xpr` file.
