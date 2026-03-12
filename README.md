@@ -107,6 +107,16 @@ Possible improvements for future development include:
 
 ---
 
+# How to Run
+
+1. Download the project ZIP file from the repository.
+2. Extract the ZIP to a desired location on your computer.
+3. Open Xilinx Vivado and select **Open Project**.
+4. Navigate to the extracted project folder and open the `.xpr` file.
+5. You can now access all VHDL sources, testbenches, and IPs to simulate or modify the project.
+
+---
+
 # Documentation
 
 The full academic thesis describing the design methodology, FSM architecture, and simulation results is included in the repository.
